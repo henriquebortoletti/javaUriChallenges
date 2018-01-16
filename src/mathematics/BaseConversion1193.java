@@ -1,7 +1,7 @@
 package mathematics;
 import java.util.Scanner;
 
-
+//https://www.urionlinejudge.com.br/judge/en/problems/view/1193
 public class BaseConversion1193 {
 
 	public static void main(String[] args) {
