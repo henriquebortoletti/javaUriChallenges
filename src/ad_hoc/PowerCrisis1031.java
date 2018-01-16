@@ -1,7 +1,7 @@
 package ad_hoc;
-
 import java.util.Scanner;
 
+//https://www.urionlinejudge.com.br/judge/en/problems/view/1031
 public class PowerCrisis1031 {
 
 	public static void main(String[] args) {
